@@ -1,9 +1,9 @@
 {
   "name": "AFK",
   "bot-account": {
-    "username": "Online4751",
+    "username": "OnlineBot47",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "MinecraftNerds-28QM.aternos.me",
