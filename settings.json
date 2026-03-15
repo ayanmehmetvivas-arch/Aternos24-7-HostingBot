@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "MinecraftNerds-28QM.aternos.me",
-    "port": 64409,
+    "port": 25565,
     "version": "1.21.11",
     "try-creative": false
   },
