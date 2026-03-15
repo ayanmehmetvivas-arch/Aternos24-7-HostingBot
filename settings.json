@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "TraySmp.aternos.me",
-    "port": 52525,
-    "version": "",
+    "port": "52525",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
