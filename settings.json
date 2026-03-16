@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TraySmp.aternos.me",
-    "port": "52525",
+    "ip": "MinecraftNerds-28QM.aternos.me",
+    "port": 25565,
     "version": "1.21.11",
     "try-creative": false
   },
